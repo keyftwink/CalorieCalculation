@@ -36,7 +36,7 @@ SceneBuilder - упрощение создания граффического м
 </p>
 
 # Разработчик
-Разработчиком является Никита, пользователь github [rhythmxqq](https://github.com/rhythmxqq)
+Разработчиком является Илья, пользователь github [keyftwink](https://github.com/keyftwink)
 
 # Использованые источники
 
