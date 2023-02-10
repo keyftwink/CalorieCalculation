@@ -12,7 +12,7 @@ public class Application extends javafx.application.Application {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(Application.class.getResource("ChoiceMenu.fxml"));
             Scene scene = new Scene(fxmlLoader.load(), 600, 400);
-            stage.setTitle("Health tracker");
+            stage.setTitle("CalorieCalculation");
             stage.setScene(scene);
             stage.show();
         }
